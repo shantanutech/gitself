@@ -1,1 +1,5 @@
-This is conflict example
+
+
+This is conflict file
+line number  2 is edited
+
